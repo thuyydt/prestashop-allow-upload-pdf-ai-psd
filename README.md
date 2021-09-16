@@ -7,5 +7,8 @@ Allow customer upload AI, PSD, PDF on prestashop 1.7
 - Login to Back-Office > Advanced Parameters > Performance > click to Clear cache button on the top
 - Enjoy :)
 
-Demo here:
-[![Watch the video](https://youtu.be/cUtmsj_9Osc)](https://youtu.be/cUtmsj_9Osc)
+### Demo here:
+
+[![prestashop-allow-upload-pdf-ai-psd](https://i.ytimg.com/vi/cUtmsj_9Osc/hq720.jpg)](https://youtu.be/cUtmsj_9Osc "Click to view")
+
+
